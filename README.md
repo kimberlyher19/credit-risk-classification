@@ -35,3 +35,14 @@ This model achieves strong performance; however, this is influenced by the imbal
 The regression model performed well, achieving an accuracy of 99% with high precision and recall for both healthy (low-risk) and high-risk loans. The predictions for healthy loans indicate that the model accurately identifies all low-risk loans in the dataset.
 
 Based on these results, I recommend using logistic regression for credit risk analysis. Its strong performance metrics make it highly effective for distinguishing between low-risk and high-risk loans, demonstrating its suitability for this task.
+
+
+## __Footnotes__
+__`Credit_Risk`__ folder contains main code and 'Resources' folder. 
+
+ __`Resources`__ folder contains lending_data.csv file.
+
+Codes were referenced from the class activities and I used ChatGPT for assistance when my codes weren't running properly. 
+
+
+### __Thank you for visiting!__
